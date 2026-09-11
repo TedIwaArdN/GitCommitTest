@@ -1,6 +1,6 @@
 
-class Aribitary {
-    public void hello {
-        System.out.println("Hello Part 3");
+class Arbitary {
+    public void hello() {
+        System.out.println("Hello from Part 5");
     }
 }
