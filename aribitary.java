@@ -5,5 +5,6 @@ class Arbitary {
     }
     public static void main() {
         hello();
+        hello();
     }
 }
